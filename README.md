@@ -1,5 +1,6 @@
 # The-MNIST-handwritten-With-Machine-Learning
-<img src='https://machinelearningmastery.com/wp-content/uploads/2019/02/Plot-of-a-Subset-of-Images-from-the-MNIST-Dataset-1024x768.png' >
+<img src='https://machinelearningmastery.com/wp-content/uploads/2019/02/Plot-of-a-Subset-of-Images-from-the-MNIST-Dataset-1024x768.png' width='500px' >
+<br>
 METHODOLOGY 
 1) Data processing : <br>
 Here we check whether NaN Value Contain or not and check whether 
